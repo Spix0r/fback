@@ -2,12 +2,6 @@
 
 FBack is a Python script to generate a targeted wordlist for Backup file fuzzing.
 
-# Usage
-
-```bash
-python fback.py [options]
-```
-
 ## Options
 
     -l - List of urls (required if not piped from stdin)
@@ -41,7 +35,7 @@ The patterns support variable replacement:
     %m - Replaced with months from range
     %d - Replaced with days from range
 
-## Examples
+## Usage
 
 ```bash
 echo "https://example.com/path/file" | python fback.py -p custom.json -o fbackout.txt -yr 2022-2023 -mr 1-12 -dr 1-31
