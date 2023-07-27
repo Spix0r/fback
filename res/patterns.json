@@ -1,0 +1,31 @@
+{
+
+"patterns":[
+       "$domain_name.$ext",
+       "$full_domain.$ext",
+       "$subdomain.$domain_name.$ext",
+       "$full_domain$num.$ext",
+       "$domain_name$num.$ext",
+       "$domain_name.$ext~",
+       "$domain_name.$num",
+       "$subdomain.$ext",
+       "$file_name.$ext",
+       "$file_name~",
+       "$full_path.$ext",
+       ".$file_name",
+       ".$domain_name.$ext",
+       ".$file_name.$ext",
+       "$full_path~",
+       "$path/.$file_name.$ext",
+       "$word.$ext",
+       "$path/$word.$ext",
+       "$path/$word"
+    ],
+    "date-formats":[
+        "$domain_name.%y.$ext",
+        "$domain_name.%y-%m-%d.$ext",
+        "$full_domain.%y-%m-%d.$ext",
+        "$full_domain.%y%m%d.$ext",
+        "$path/%y-%m-%d.$ext"
+    ]
+}
