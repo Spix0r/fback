@@ -1,6 +1,6 @@
 # FBack
 
-Back is a Python script that generates customized wordlists for fuzzing backup files. It takes a JSON-based pattern file and seed wordlist as input. These patterns are applied to the provided seed wordlist to generate all possible combinations and variations based on the defined rules.
+Back is a Python script that generates a Target Specific wordlists for fuzzing backup files. It takes a JSON-based pattern file and seed wordlist as input. These patterns are applied to the provided seed wordlist to generate all possible combinations and variations based on the defined rules.
 
 ## Options
 
