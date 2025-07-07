@@ -3,6 +3,8 @@
 **A lightning-fast CLI tool for generating target-specific wordlists to fuzz backup files**
 
 ---
+![image_2025-07-08_00-40-41](https://github.com/user-attachments/assets/b0a99142-c1f6-4b8d-9171-5cbcaa7b4c94)
+---
 
 ## 🕸 Table of Contents
 
