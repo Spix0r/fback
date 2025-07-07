@@ -1,8 +1,9 @@
+#!/usr/bin/env node
+
 const args = require("./modules/args");
 const fileHandler = require("./modules/fileHandler");
 const generator = require("./modules/generator");
 
-// Generate Wordlist
 args.parse_args().then((args) => {
   generator.generate(args).then((result) => {
     if (!result) {
