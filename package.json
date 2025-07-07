@@ -1,0 +1,20 @@
+{
+  "name": "fback",
+  "version": "1.0.0",
+  "description": "Fback is a tool that helps you create target-specific wordlists using a .json pattern.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spix0r/fback.git"
+  },
+  "author": "Spix0r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Spix0r/fback/issues"
+  },
+  "homepage": "https://github.com/Spix0r/fback#readme",
+  "dependencies": {
+    "commander": "^14.0.0",
+    "winston": "^3.17.0"
+  }
+}
