@@ -1,6 +1,6 @@
 {
   "name": "fback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fback is a tool that helps you create target-specific wordlists using a .json pattern.",
   "files": [
     "main.js",
