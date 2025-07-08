@@ -24,7 +24,13 @@ function staticReplace(patterns, variables) {
 
 function dynamicReplace(patterns, toReplaces, name) {
   const result = [];
+
   for (const pattern of patterns) {
+    if (!pattern.includes(name)) {
+      result.push(pattern);
+      continue;
+    }
+
     for (const replacement of toReplaces) {
       result.push(pattern.split(name).join(replacement));
     }
