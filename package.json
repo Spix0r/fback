@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mirzadzare/fback.git"
+    "url": "git+https://github.com/Spix0r/fback.git"
   },
   "author": "Mirzadzare",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mirzadzare/fback/issues"
+    "url": "https://github.com/Spix0r/fback/issues"
   },
-  "homepage": "https://github.com/Mirzadzare/fback#readme",
+  "homepage": "https://github.com/Spix0r/fback#readme",
   "dependencies": {
     "commander": "^14.0.0",
     "winston": "^3.17.0"
