@@ -172,7 +172,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <p align="center">
-  <strong>Made with ❤️ by <a href="https://github.com/Mirzadzare">🕷 Mirzadzare</a></strong>
+  <strong>Made with ❤️ by <a href="https://github.com/Spix0r">🕷 Spix0r</a></strong>
 </p>
 
 <p align="center">
