@@ -41,7 +41,7 @@ npm install @spix0r/fback -g
 ### Build From Source
 
 ```bash
-git clone https://github.com/Mirzadzare/fback.git
+git clone https://github.com/Spix0r/fback.git
 cd fback
 chmod +x main.js
 npm install . -g
