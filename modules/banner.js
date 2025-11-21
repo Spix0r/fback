@@ -18,7 +18,7 @@ function banner(silent) {
              ░           ░  
                       ` +
     reset +
-    "[github.com/Mirzadzare]\n\n";
+    "[github.com/Spix0r]\n\n";
 
   if (!silent) {
     process.stderr.write(banner);
