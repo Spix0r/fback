@@ -41,7 +41,7 @@ npm install @spix0r/fback -g
 ### Build From Source
 
 ```bash
-git clone https://github.com/Spix0r/fback.git
+git clone https://github.com/Mirzadzare/fback.git
 cd fback
 chmod +x main.js
 npm install . -g
@@ -172,7 +172,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <p align="center">
-  <strong>Made with ❤️ by <a href="https://github.com/Spix0r">🕷Spix0r</a></strong>
+  <strong>Made with ❤️ by <a href="https://github.com/Mirzadzare">🕷 Mirzadzare</a></strong>
 </p>
 
 <p align="center">
